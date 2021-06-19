@@ -1,6 +1,6 @@
-#include
+#include "stido.h"
 
-intmain()
+int main()
 
 {
 	printf("hello world");
